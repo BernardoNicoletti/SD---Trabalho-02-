@@ -1,0 +1,17 @@
+Hora inicial do servidor: 21:10:24.365461900
+Número de clientes conectados: 2
+Média das diferenças: -25616 segundos
+
+Cliente 1
+Endereço IP: /127.0.0.1
+Diferença enviada pelo cliente: -37824 segundos
+Ajuste enviado: 12208 segundos
+Hora final do cliente: 14:03:28
+
+Cliente 2
+Endereço IP: /127.0.0.1
+Diferença enviada pelo cliente: -39024 segundos
+Ajuste enviado: 13408 segundos
+Hora final do cliente: 14:03:28
+
+Hora final do servidor: 14:03:28.365461900

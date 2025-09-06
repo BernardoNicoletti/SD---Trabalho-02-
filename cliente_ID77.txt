@@ -1,0 +1,5 @@
+Hora do servidor: 21:10:24.365461900
+Hora do cliente: 10:20
+Diferença (s): -39024
+Ajuste (s): 13408
+Hora final ajustada: 14:03:28
